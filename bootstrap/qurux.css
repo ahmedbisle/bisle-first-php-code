@@ -1,0 +1,29 @@
+.carousel-inner img{
+    width: 80%;
+    height: 80vh;
+    margin-top: 5px;
+    padding-left:10px;
+    padding-right:10px;
+
+}
+
+
+
+.x{
+    background-color: rgba(27,168,30,0.93);
+    height: 30vh;
+}
+.y{
+    background-color: rgb(27, 79, 168);
+
+}
+.a{
+    background-color: rgb(27, 168, 130);
+
+}
+.b{
+    background-color: rgba(168,9,22,0.93) ;
+}
+.c{
+    background-color: rgba(152,31,168,0.93);
+}
